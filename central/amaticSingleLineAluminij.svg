@@ -110,7 +110,7 @@
          result="composite1" />
       <feComposite
          id="feComposite5036"
-         in2="offset"
+         in2="composite1"
          in="fbSourceGraphic"
          operator="over"
          result="fbSourceGraphic" />
@@ -189,17 +189,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6"
-     inkscape:cx="659.77306"
-     inkscape:cy="686.08621"
+     inkscape:cx="994.20701"
+     inkscape:cy="619.41954"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      borderlayer="false"
      inkscape:showpageshadow="false"
-     inkscape:window-width="2177"
+     inkscape:window-width="1920"
      inkscape:window-height="1173"
-     inkscape:window-x="5"
+     inkscape:window-x="0"
      inkscape:window-y="46"
      inkscape:window-maximized="0" />
   <metadata
@@ -210,7 +210,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -222,15 +222,15 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4817)"
        x="960.11597"
-       y="629.87427"
+       y="628.48267"
        id="text3368"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="960.11597"
-         y="629.87427"
+         y="628.48267"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.5px;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';text-align:center;text-anchor:middle;fill:#f9f9f9"
-         id="tspan3372">POSTBANG linux</tspan></text>
+         id="tspan3372">Postbang linux</tspan></text>
   </g>
 </svg>
