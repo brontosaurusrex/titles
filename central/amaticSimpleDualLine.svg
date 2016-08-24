@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg3360"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 1920 1080"
+   inkscape:export-filename="/home/ticho/titles/simple.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="amaticSimpleDualLine.svg">
+  <defs
+     id="defs3362">
+    <filter
+       inkscape:label="Drop Shadow"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Riddle the surface and add bump to images"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4525">
+      <feGaussianBlur
+         stdDeviation="0.5"
+         in="SourceGraphic"
+         result="result1"
+         id="feGaussianBlur4527" />
+      <feTurbulence
+         type="fractalNoise"
+         baseFrequency="0.04"
+         numOctaves="10"
+         result="result0"
+         id="feTurbulence4529" />
+      <feGaussianBlur
+         result="result8"
+         stdDeviation="1"
+         id="feGaussianBlur4531" />
+      <feDisplacementMap
+         in2="result0"
+         in="result1"
+         xChannelSelector="R"
+         yChannelSelector="B"
+         scale="2.8415300546448088"
+         result="result2"
+         id="feDisplacementMap4533" />
+      <feComposite
+         result="result7"
+         operator="in"
+         in="result2"
+         in2="result8"
+         id="feComposite4535"
+         scale="2.7999999999999998" />
+      <feComposite
+         in2="result7"
+         result="fbSourceGraphic"
+         k2="0.15"
+         in="result2"
+         k1="2"
+         operator="arithmetic"
+         id="feComposite4537" />
+      <feColorMatrix
+         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -0.8 -1 0 3.7 -2.6 "
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha"
+         type="matrix"
+         id="feColorMatrix4539" />
+      <feGaussianBlur
+         stdDeviation="13.384681024447032"
+         result="result9"
+         id="feGaussianBlur4541" />
+      <feSpecularLighting
+         surfaceScale="10"
+         specularExponent="3"
+         result="result11"
+         specularConstant="0.7"
+         id="feSpecularLighting4543"
+         stdDeviation="13.4">
+        <feDistantLight
+           azimuth="235"
+           elevation="311.17971334068358"
+           id="feDistantLight4545" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         in="result9"
+         lighting-color="rgb(255,255,255)"
+         result="result6"
+         diffuseConstant="0.4"
+         surfaceScale="50"
+         id="feDiffuseLighting4547">
+        <feDistantLight
+           elevation="311"
+           azimuth="235"
+           id="feDistantLight4549" />
+      </feDiffuseLighting>
+      <feBlend
+         result="result10"
+         mode="screen"
+         in2="result11"
+         id="feBlend4551" />
+      <feComposite
+         in2="fbSourceGraphic"
+         in="result10"
+         result="result2"
+         operator="in"
+         id="feComposite4553" />
+      <feComposite
+         k3="0.9"
+         k2="1"
+         operator="arithmetic"
+         in2="fbSourceGraphic"
+         id="feComposite4555"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4732" />
+      <feFlood
+         id="feFlood4734"
+         flood-opacity="0.913725"
+         flood-color="rgb(0,71,115)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4736"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4738"
+         in="composite1"
+         stdDeviation="5.49451"
+         result="blur" />
+      <feOffset
+         id="feOffset4740"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite4742"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#646464"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6"
+     inkscape:cx="783.39846"
+     inkscape:cy="473.067"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="2957"
+     inkscape:window-height="1319"
+     inkscape:window-x="253"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-303.33333,151.66667"
+       orientation="1,0"
+       id="guide3613" />
+    <sodipodi:guide
+       position="-220,-130"
+       orientation="1,0"
+       id="guide3615" />
+    <sodipodi:guide
+       position="1096.6048,446.06653"
+       orientation="1,0"
+       id="guide4417" />
+    <sodipodi:guide
+       position="1431.8912,437.81695"
+       orientation="1,0"
+       id="guide4419" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3365">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:0.79928314;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="961.44958"
+       y="616.26929"
+       id="text3368"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="961.44958"
+         y="616.26929"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.5px;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:0.79928314"
+         id="tspan3372">Postbang <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC';fill:#f9f9f9;fill-opacity:0.79928314"
+   id="tspan4744">linux</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.89943314px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.78494628;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1289.1023"
+       y="640.95483"
+       id="text3609"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3611"
+         x="1289.1023"
+         y="640.95483"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:cuprum;-inkscape-font-specification:'cuprum Bold';letter-spacing:5.90736914px;fill:#ffffff;fill-opacity:0.78494628">for people</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1.3624854"
+       y="1136.6666"
+       id="text4421"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4423"
+         x="-1.3624854"
+         y="1136.6666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cuprum;-inkscape-font-specification:cuprum">interesting blue background: #315666</tspan></text>
+  </g>
+</svg>
