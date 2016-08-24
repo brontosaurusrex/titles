@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg3360"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 1920 1080"
+   inkscape:export-filename="/home/ticho/images/postbang_fat_back2stroke.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="oswaldFATslightStrokeDualLineBACK.svg"
+   enable-background="new">
+  <defs
+     id="defs3362">
+    <linearGradient
+       id="linearGradient7163"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#92fff9;stop-opacity:1;"
+         offset="0"
+         id="stop7165" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4227">
+      <feBlend
+         inkscape:collect="always"
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend4229" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4435">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4437" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4439" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="7.54098"
+         result="blur"
+         id="feGaussianBlur4441" />
+      <feOffset
+         dx="6.1"
+         dy="7.8"
+         result="offset"
+         id="feOffset4443" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4445" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#7b8f97"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.42426407"
+     inkscape:cx="244.79635"
+     inkscape:cy="324.08404"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showborder="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1894"
+     inkscape:window-height="1044"
+     inkscape:window-x="0"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0"
+     fit-margin-left="-1.9428903e-16"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="96,1153.3333"
+       orientation="1,0"
+       id="guide4170"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1824,668.33333"
+       orientation="1,0"
+       id="guide4172"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1281.6667,1026"
+       orientation="0,1"
+       id="guide4193"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1285,54"
+       orientation="0,1"
+       id="guide4195"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-350,1288.3333"
+       orientation="1,0"
+       id="guide314311" />
+    <sodipodi:guide
+       position="-857.95623,1310.5046"
+       orientation="1,0"
+       id="guide4232" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3365">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     style="display:inline;filter:url(#filter4227)">
+    <rect
+       style="opacity:0.32900002;fill:#e14a70;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4435)"
+       id="rect4206"
+       width="664.16669"
+       height="232.5"
+       x="99.943565"
+       y="791.30341"
+       rx="5"
+       ry="5"
+       clip-path="none" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="text"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:38.51561737px;line-height:161.00000143%;font-family:sans-serif;letter-spacing:0px;word-spacing:15.19920635px;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="137.14699"
+       y="865.12677"
+       id="text3368"
+       sodipodi:linespacing="161%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(0.96653096,1.034628)"><tspan
+         sodipodi:role="line"
+         x="137.14699"
+         y="865.12677"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:71.97351837px;line-height:161.00000143%;font-family:oswald;-inkscape-font-specification:'oswald Light';text-align:start;letter-spacing:15.07999897px;word-spacing:15.19920635px;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3646">POSTBANG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.68196487px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="133.99959"
+       y="914.10315"
+       id="text313995"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan313997"
+         x="133.99959"
+         y="914.10315" /><tspan
+         sodipodi:role="line"
+         x="133.99959"
+         y="951.07538"
+         id="tspan313999"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:30.01721001px;font-family:oswald;-inkscape-font-specification:'oswald Light';letter-spacing:2.00114727px;fill:#f9f9f9;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">LINUX FOR PEOPLE</tspan><tspan
+         sodipodi:role="line"
+         x="133.99959"
+         y="988.59692"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:30.01721001px;font-family:oswald;-inkscape-font-specification:'oswald Light';letter-spacing:2.00114727px;fill:#f9f9f9;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4234">AND HUMANOIDS</tspan></text>
+  </g>
+</svg>
