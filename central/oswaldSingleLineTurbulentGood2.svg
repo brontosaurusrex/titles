@@ -18,9 +18,9 @@
    inkscape:version="0.91 r13725"
    viewBox="0 0 1920 1080"
    inkscape:export-filename="/home/ticho/titles/good.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:docname="oswaldSingleLineTurbulentGood_.svg">
+   inkscape:export-xdpi="234.38"
+   inkscape:export-ydpi="234.38"
+   sodipodi:docname="oswaldSingleLineTurbulentGood2.svg">
   <defs
      id="defs3362">
     <linearGradient
@@ -442,9 +442,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2"
-     inkscape:cx="927.95203"
-     inkscape:cy="602.07842"
+     inkscape:zoom="1.6970563"
+     inkscape:cx="995.97367"
+     inkscape:cy="596.46005"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -464,7 +464,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -490,7 +490,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        mask="none"
-       transform="matrix(0.25251499,0,0,0.25251499,725.79396,409.18519)"><tspan
+       transform="matrix(0.12098496,0,0,0.12098496,847.78722,477.32402)"><tspan
          sodipodi:role="line"
          x="946.41919"
          y="642.14728"
