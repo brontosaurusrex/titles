@@ -18,9 +18,9 @@
    inkscape:version="0.91 r13725"
    viewBox="0 0 1920 1080"
    inkscape:export-filename="/home/ticho/titles/cracks3.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:docname="tmp4.svg">
+   inkscape:export-xdpi="202.125"
+   inkscape:export-ydpi="202.125"
+   sodipodi:docname="oswaldSingleLineTurbulentCracky.svg">
   <defs
      id="defs3362">
     <linearGradient
@@ -581,9 +581,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42426408"
-     inkscape:cx="1162.0792"
-     inkscape:cy="458.83954"
+     inkscape:zoom="0.60000002"
+     inkscape:cx="687.7941"
+     inkscape:cy="510.74712"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -603,7 +603,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -629,7 +629,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        mask="none"
-       transform="matrix(0.22295745,-0.02021753,0.02021753,0.22295745,742.58392,436.92999)"><tspan
+       transform="matrix(0.22377559,0.0065771,-0.0065771,0.22377559,756.46238,411.68158)"><tspan
          sodipodi:role="line"
          x="946.41913"
          y="642.14728"
