@@ -20,9 +20,21 @@
    inkscape:export-filename="/home/ticho/titles/cracks3.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="oswaldSingleLineTurbulentCracky.svg">
+   sodipodi:docname="oswaldSingleLineTurbulentCrackyDissovish.svg">
   <defs
      id="defs3362">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7402">
+      <stop
+         style="stop-color:#2b0000;stop-opacity:1;"
+         offset="0"
+         id="stop7404" />
+      <stop
+         style="stop-color:#2b0000;stop-opacity:0;"
+         offset="1"
+         id="stop7406" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient7542">
@@ -573,16 +585,14 @@
          in2="result2"
          operator="atop" />
     </filter>
-    <radialGradient
+    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient7175"
-       id="radialGradient7392"
-       cx="923.88184"
-       cy="702.96906"
-       fx="923.88184"
-       fy="702.96906"
-       r="2496.2646"
-       gradientTransform="matrix(1,0,0,0.1754983,0,579.59918)"
+       xlink:href="#linearGradient7402"
+       id="linearGradient7408"
+       x1="-904.28851"
+       y1="425.99374"
+       x2="2818.9829"
+       y2="1138.1333"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -593,8 +603,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.84852816"
-     inkscape:cx="854.79285"
-     inkscape:cy="493.84499"
+     inkscape:cx="1010.9429"
+     inkscape:cy="710.97161"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -614,7 +624,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -632,7 +642,7 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:316.66577148px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2b0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.38351255;filter:url(#filter4687)"
+       style="font-style:normal;font-weight:normal;font-size:316.66577148px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient7408);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.38351255;filter:url(#filter4687)"
        x="916.94733"
        y="642.14728"
        id="text3368"
@@ -644,12 +654,12 @@
          sodipodi:role="line"
          x="916.94727"
          y="642.14728"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:295.87414551px;font-family:Oswald;-inkscape-font-specification:'Oswald Light';text-align:center;text-anchor:middle;fill:#2b0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:295.87414551px;font-family:Oswald;-inkscape-font-specification:'Oswald Light';text-align:center;text-anchor:middle;fill:url(#linearGradient7408);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255"
          id="tspan4327">PLAYING AROUND WITH INKSCAPE</tspan><tspan
          sodipodi:role="line"
          x="946.41913"
          y="1011.99"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:295.87414551px;font-family:Oswald;-inkscape-font-specification:'Oswald Light';text-align:center;text-anchor:middle;fill:#2b0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:295.87414551px;font-family:Oswald;-inkscape-font-specification:'Oswald Light';text-align:center;text-anchor:middle;fill:url(#linearGradient7408);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255"
          id="tspan7382"
          rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">AND TEKST EFFECTS </tspan></text>
   </g>
