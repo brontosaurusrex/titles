@@ -18,8 +18,8 @@
    inkscape:version="0.91 r13725"
    viewBox="0 0 1920 1080"
    inkscape:export-filename="/home/ticho/titles/cracks3.png"
-   inkscape:export-xdpi="202.125"
-   inkscape:export-ydpi="202.125"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
    sodipodi:docname="oswaldSingleLineTurbulentCracky.svg">
   <defs
      id="defs3362">
@@ -573,6 +573,17 @@
          in2="result2"
          operator="atop" />
     </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7175"
+       id="radialGradient7392"
+       cx="923.88184"
+       cy="702.96906"
+       fx="923.88184"
+       fy="702.96906"
+       r="2496.2646"
+       gradientTransform="matrix(1,0,0,0.1754983,0,579.59918)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -581,9 +592,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.60000002"
-     inkscape:cx="687.7941"
-     inkscape:cy="510.74712"
+     inkscape:zoom="0.84852816"
+     inkscape:cx="854.79285"
+     inkscape:cy="493.84499"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -621,7 +632,7 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:316.66577148px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.38351255;filter:url(#filter4687)"
+       style="font-style:normal;font-weight:normal;font-size:316.66577148px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#600000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.38351255;filter:url(#filter4687);"
        x="916.94733"
        y="642.14728"
        id="text3368"
@@ -629,11 +640,16 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        mask="none"
-       transform="matrix(0.22377559,0.0065771,-0.0065771,0.22377559,756.46238,411.68158)"><tspan
+       transform="matrix(0.22377559,0.0065771,-0.0065771,0.22377559,757.88129,376.61622)"><tspan
+         sodipodi:role="line"
+         x="916.94727"
+         y="642.14728"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:295.87414551px;font-family:Oswald;-inkscape-font-specification:'Oswald Light';text-align:center;text-anchor:middle;fill:#600000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255;"
+         id="tspan4327">PLAYING AROUND WITH INKSCAPE</tspan><tspan
          sodipodi:role="line"
          x="946.41913"
-         y="642.14728"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:295.87414551px;font-family:Oswald;-inkscape-font-specification:'Oswald Light';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255"
-         id="tspan4327">brontosaurusrex.github.io </tspan></text>
+         y="1011.99"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:295.87414551px;font-family:Oswald;-inkscape-font-specification:'Oswald Light';text-align:center;text-anchor:middle;fill:#600000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255;"
+         id="tspan7382">AND TEKST EFFECTS </tspan></text>
   </g>
 </svg>
