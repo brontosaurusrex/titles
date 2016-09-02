@@ -1,5 +1,5 @@
 # titles
-Some Inkscape text titles templates.  
+Some Inkscape text templates.  
 
 ![example](example.png "example")  
 ------
