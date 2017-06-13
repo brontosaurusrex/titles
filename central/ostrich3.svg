@@ -11,16 +11,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1920"
-   height="1080"
+   width="2048"
+   height="1152"
    id="svg3360"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    viewBox="0 0 1920 1080"
-   inkscape:export-filename="/home/ticho/prehod/bostjan/ameriskeVolitve/SPLETU"
+   inkscape:export-filename="/home/ticho/images/wallpapers/stretchbangBlau.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="oswaldSingleLine.svg">
+   sodipodi:docname="ostrich3.svg">
   <defs
      id="defs3362">
     <linearGradient
@@ -69,12 +69,12 @@
        xlink:href="#linearGradient7542"
        id="linearGradient7548"
        x1="731.97723"
-       y1="539.99999"
+       y1="540"
        x2="1188.0228"
-       y2="539.99999"
+       y2="540"
        gradientUnits="userSpaceOnUse" />
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter7665">
       <feFlood
@@ -113,20 +113,20 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42426407"
-     inkscape:cx="1086.0326"
-     inkscape:cy="344.57841"
+     inkscape:zoom="0.6"
+     inkscape:cx="1112.1984"
+     inkscape:cy="568.61408"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      borderlayer="false"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1173"
+     inkscape:window-width="1908"
+     inkscape:window-height="1083"
      inkscape:window-x="6"
      inkscape:window-y="46"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3365">
     <rdf:RDF>
@@ -135,7 +135,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -145,24 +145,20 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:96.32447052px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.38351255;filter:url(#filter7665)"
-       x="960.50537"
-       y="577.74902"
+       style="font-style:normal;font-weight:normal;font-size:18.88200188px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.7891643px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.38351255"
+       x="963.6651"
+       y="586.07788"
        id="text3368"
-       sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       transform="matrix(2.0695969,0,0,2.0695969,-1027.7225,-554.39032)"><tspan
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="960.50537"
-         y="577.74902"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:90px;font-family:Oswald;-inkscape-font-specification:'Oswald Light';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255"
-         id="tspan7459"
-         dx="0 0 0 0 0 0 0 4.2000003">NA SPLETU</tspan><tspan
-         sodipodi:role="line"
-         x="960.50537"
-         y="690.24902"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:38.65487042px;font-family:Oswald;-inkscape-font-specification:'Oswald Light';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255"
-         id="tspan7265">www.rtvslo.si/svet/zda-2016</tspan></text>
+         x="963.6651"
+         y="586.07788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:136.85275269px;line-height:0;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans';text-align:center;text-anchor:middle;fill:#afe9c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.7891643px;stroke-opacity:0.38351255"
+         id="tspan4941"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Ostrich Sans Dashed';-inkscape-font-specification:'Ostrich Sans Dashed Medium';fill:#afe9c6"
+           id="tspan4512">stretch</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ostrich Sans Rounded';-inkscape-font-specification:'Ostrich Sans Rounded';fill:#afe9c6"
+           id="tspan4514">bang</tspan></tspan></text>
   </g>
 </svg>

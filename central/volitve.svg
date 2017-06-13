@@ -20,7 +20,7 @@
    inkscape:export-filename="/home/ticho/prehod/bostjan/ameriskeVolitve/SPLETU"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="oswaldSingleLine.svg">
+   sodipodi:docname="volitve.svg">
   <defs
      id="defs3362">
     <linearGradient
@@ -114,8 +114,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42426407"
-     inkscape:cx="1086.0326"
-     inkscape:cy="344.57841"
+     inkscape:cx="1342.64"
+     inkscape:cy="183.00868"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -135,7 +135,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

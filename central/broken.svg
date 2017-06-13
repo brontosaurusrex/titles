@@ -17,10 +17,10 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    viewBox="0 0 1920 1080"
-   inkscape:export-filename="/home/ticho/titles/good3.png"
-   inkscape:export-xdpi="234.38"
-   inkscape:export-ydpi="234.38"
-   sodipodi:docname="brontosaurusrex.svg">
+   inkscape:export-filename="/home/ticho/images/broken.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="broken.svg">
   <defs
      id="defs3362">
     <linearGradient
@@ -589,9 +589,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6970563"
-     inkscape:cx="972.97656"
-     inkscape:cy="553.73246"
+     inkscape:zoom="0.60000001"
+     inkscape:cx="953.3843"
+     inkscape:cy="444.52144"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -629,22 +629,6 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:316.66577148px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.38351255;filter:url(#filter4687)"
-       x="916.94733"
-       y="642.14728"
-       id="text3368"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       mask="none"
-       transform="matrix(0.25251499,0,0,0.25251499,717.49832,213.7721)"><tspan
-         sodipodi:role="line"
-         x="916.94733"
-         y="642.14728"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:295.87414551px;font-family:'Indie Flower';-inkscape-font-specification:'Indie Flower';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255"
-         id="tspan7459">Na utrip srca</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:316.66577148px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.38351255;filter:url(#filter4687-0)"
        x="916.94733"
        y="642.14728"
@@ -653,12 +637,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        mask="none"
-       transform="matrix(0.25251499,0,0,0.25251499,712.40811,368.01458)"><tspan
+       transform="matrix(0.50029928,0,0,0.50029928,500.90366,322.60552)"><tspan
          sodipodi:role="line"
-         x="916.94733"
+         x="944.37561"
          y="642.14728"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:295.87414551px;font-family:'Waiting for the Sunrise';-inkscape-font-specification:'Waiting for the Sunrise Light';text-align:center;word-spacing:-39.60160828px;text-anchor:middle;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:712.82897949px;font-family:'Broken 15';-inkscape-font-specification:'Broken 15, ';text-align:center;letter-spacing:54.85651016px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.40811181px;stroke-opacity:0.38351255"
          id="tspan7459-6"
-         dx="100 0 0 0 0 10 10 10 -29">Na utrip srca</tspan></text>
+         dx="0">Postbang</tspan></text>
   </g>
 </svg>
